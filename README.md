@@ -1,6 +1,4 @@
 # My Data Science projects in Python:
-**[Predicting Car Prices](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20Car%20Prices/Basics.ipynb)**: This project is about using the [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) to predict car prices.
-
 **[Winning Jeopardy](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Winning%20Jeopardy/Basics.ipynb)**: In this project, a dataset of Jeopardy questions is used to figure out some patterns in the questions that could help to win.
 
 **[Building a Spam Filter with Naive Bayes](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Building%20a%20Spam%20Filter%20with%20Naive%20Bayes/Basics.ipynb)**: In this project, a spam filter function is written using the multinomial Naive Bayes algorithm to classify SMS messages as spam and non-spam.
