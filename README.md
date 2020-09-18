@@ -1,5 +1,7 @@
 # My Data Science projects in Python:
 
+**[Predicting House Sale Prices](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20House%20Sale%20Prices/Basics.ipynb)**: In this project, for predicting house prices **feature engineering** and **feature selection** with the combination of the **linear regression model** are used.
+
 **[Predicting Car Prices](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20Car%20Prices/Basics.ipynb)**: This project is about using the [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) to predict car prices.
 
 **[Winning Jeopardy](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Winning%20Jeopardy/Basics.ipynb)**: In this project, a dataset of Jeopardy questions is used to figure out some patterns in the questions that could help to win.
