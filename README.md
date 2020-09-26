@@ -1,5 +1,7 @@
 # My Data Science projects in Python:
 
+**[Predicting the stock market](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20the%20stock%20market/Basics.ipynb)** This project is about using the **linear regression model** to predict the daily price of the S&P500 Index. Making predictions only one day ahead is also practiced.
+
 **[Predicting House Sale Prices](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20House%20Sale%20Prices/Basics.ipynb)**: In this project, for predicting house prices **feature engineering** and **feature selection** with the combination of the **linear regression model** are used.
 
 **[Predicting Car Prices](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20Car%20Prices/Basics.ipynb)**: This project is about using the [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) to predict car prices.
