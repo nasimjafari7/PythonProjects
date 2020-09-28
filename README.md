@@ -1,5 +1,7 @@
 # My Data Science projects in Python:
 
+[Predicting Bike Rentals](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20Bike%20Rentals/Basics.ipynb): In this project, I have used and compared Linear Regression, Decision Tree Regression and Random Forest algorithms to predict bike rentals. I also tried to find the best parameters to prevent overfitting and get good results.
+
 **[Predicting the stock market](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20the%20stock%20market/Basics.ipynb)** This project is about using the **linear regression model** to predict the daily price of the S&P500 Index. Making predictions only one day ahead is also practiced.
 
 **[Predicting House Sale Prices](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20House%20Sale%20Prices/Basics.ipynb)**: In this project, for predicting house prices **feature engineering** and **feature selection** with the combination of the **linear regression model** are used.
