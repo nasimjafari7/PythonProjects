@@ -1,6 +1,8 @@
 # My Data Science projects in Python:
 
-[Predicting Bike Rentals](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20Bike%20Rentals/Basics.ipynb): In this project, I have used and compared Linear Regression, Decision Tree Regression and Random Forest algorithms to predict bike rentals. I also tried to find the best parameters to prevent overfitting and get good results.
+**[Building A Handwritten Digits Classifier](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Building%20A%20Handwritten%20Digits%20Classifier/Basics.ipynb)**: In this project, I tried to use and compare the k-nearest neighbors algorithm and neural networks with different numbers of neurons and different hidden layers for classifying handwritten digits problem. 
+
+**[Predicting Bike Rentals](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20Bike%20Rentals/Basics.ipynb)**: In this project, I have used and compared Linear Regression, Decision Tree Regression and Random Forest algorithms to predict bike rentals. I also tried to find the best parameters to prevent overfitting and get good results.
 
 **[Predicting the stock market](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Predicting%20the%20stock%20market/Basics.ipynb)** This project is about using the **linear regression model** to predict the daily price of the S&P500 Index. Making predictions only one day ahead is also practiced.
 
