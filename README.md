@@ -1,4 +1,6 @@
 # My Data Science projects in Python:
+**[Creating a Kaggle Workflow](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Creating%20a%20Kaggle%20Workflow/Basics.ipynb)**: In this project, I tried to build a workflow for a sample of the Kaggle's projects (the sinking of the Titanic) so I can follow the same pattern for the other Kaggle projects in the future
+
 
 **[Building A Handwritten Digits Classifier](https://github.com/nasimjafari7/PythonProjects/blob/master/Guided%20Project_%20Building%20A%20Handwritten%20Digits%20Classifier/Basics.ipynb)**: In this project, I tried to use and compare the k-nearest neighbors algorithm and neural networks with different numbers of neurons and different hidden layers for classifying handwritten digits problem. 
 
