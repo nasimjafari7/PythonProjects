@@ -1,0 +1,17 @@
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.deps.json
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.runtimeconfig.json
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.runtimeconfig.dev.json
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.dll
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\MicroSys.Api.Search.dll
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\MicroSys.Api.Search.pdb
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\obj\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.csprojAssemblyReference.cache
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\obj\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.csproj.CoreCompileInputs.cache
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\obj\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.AssemblyInfoInputs.cache
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\obj\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.AssemblyInfo.cs
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\obj\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.csproj.CopyComplete
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\bin\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.pdb
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\obj\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.dll
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Search.Tests\obj\Debug\netcoreapp2.1\MicroSys.Api.Search.Tests.pdb

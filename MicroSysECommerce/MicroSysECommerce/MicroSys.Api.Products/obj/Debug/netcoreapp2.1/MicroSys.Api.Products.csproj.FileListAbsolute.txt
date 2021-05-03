@@ -1,0 +1,13 @@
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\bin\Debug\netcoreapp2.1\MicroSys.Api.Products.deps.json
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\bin\Debug\netcoreapp2.1\MicroSys.Api.Products.runtimeconfig.json
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\bin\Debug\netcoreapp2.1\MicroSys.Api.Products.runtimeconfig.dev.json
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\bin\Debug\netcoreapp2.1\MicroSys.Api.Products.dll
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\obj\Debug\netcoreapp2.1\MicroSys.Api.Products.csproj.CoreCompileInputs.cache
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\obj\Debug\netcoreapp2.1\MicroSys.Api.Products.RazorAssemblyInfo.cache
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\obj\Debug\netcoreapp2.1\MicroSys.Api.Products.RazorAssemblyInfo.cs
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\obj\Debug\netcoreapp2.1\MicroSys.Api.Products.AssemblyInfoInputs.cache
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\obj\Debug\netcoreapp2.1\MicroSys.Api.Products.AssemblyInfo.cs
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\obj\Debug\netcoreapp2.1\MicroSys.Api.Products.RazorTargetAssemblyInfo.cache
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\bin\Debug\netcoreapp2.1\MicroSys.Api.Products.pdb
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\obj\Debug\netcoreapp2.1\MicroSys.Api.Products.dll
+C:\Courses\MicroServices\MyProject\MicroSysECommerce\MicroSys.Api.Products\obj\Debug\netcoreapp2.1\MicroSys.Api.Products.pdb
